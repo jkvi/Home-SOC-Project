@@ -100,3 +100,12 @@ Enriched KQL Query: Use KQL with ipv4_lookup to enhance your query with geolocat
 Create Sentinel Workbook: Create a new workbook in Sentinel.
 Add Query and Map: Add a "Query" element and paste the provided JSON https://drive.google.com/file/d/1ErlVEK5cQjpGyOcu4T02xYy7F31dWuir/view?usp=drive_link for the attack map. Configure the map settings to display attack locations.
 Observe the Attack Map: Visualize the attack locations on the map.
+
+**Results and Observations:**
+The project successfully demonstrated the ability to monitor a honey pot VM in Azure, collect and analyze security logs, and enrich the logs with geographic location data. The KQL queries provided valuable insights into the simulated attacks, including the attacker's IP address and geographic location. This showcases the effectiveness of using Azure Sentinel for security monitoring and incident response.
+
+**Future Enhancements:**
+- Implement automated threat detection using Azure Sentinel's analytics capabilities.
+- Integrate additional security tools and data sources for more comprehensive monitoring.
+- Develop more sophisticated KQL queries to detect and analyze various types of cyberattacks.
+- This project provides a practical example of how to build and analyze a honey pot environment within Azure, highlighting the importance of effective log management and security information and event management (SIEM) systems.
