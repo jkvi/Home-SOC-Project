@@ -11,8 +11,8 @@ Resource management (creating, configuring, and managing Azure resources)._
 _Honeypot concepts and implementation.
 Understanding of network security groups (NSGs) and their role in controlling network traffic.
 Basic understanding of event logging and security event analysis.
-Security event correlation and analysis._
-Introduction to SIEM (Security Information and Event Management) systems.
+Security event correlation and analysis.
+Introduction to SIEM (Security Information and Event Management) systems._
 - **Log Analysis and SIEM**:
 _Log collection and forwarding.
 Working with Log Analytics Workspaces (LAW).
