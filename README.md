@@ -43,9 +43,10 @@ Debugging KQL queries._
 
 
 **Part 1: Azure Subscription Setup**
-[Image: Azure portal login screen]
+[Image: Azure portal login screen]![AzureLOGIN](https://github.com/user-attachments/assets/af2a39a4-b763-4f4f-9651-51c3462b088f)
 
-Create a Free or Paid Azure Subscription: Choose a free account (if available) or a paid subscription, keeping cost-effectiveness in mind. Consider using Azure's free tier or a dedicated Cyber Range for cost management. Include links to Azure subscription creation and Cyber Range signup.
+
+Create a Free or Paid Azure Subscription: Choose a free account (if available) or a paid subscription, keeping cost-effectiveness in mind.
 Azure Portal Login: Access the Azure portal at https://portal.azure.com.
 
 **Part 2: Creating the Honeypot VM**
